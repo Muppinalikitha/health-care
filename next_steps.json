@@ -1,0 +1,28 @@
+{
+  "nextSteps": [
+    {
+      "id": "learn_monitor",
+      "title": "Learn & Monitor",
+      "icon": "🟢",
+      "description": "Your concern doesn't appear urgent based on the information provided. Learn what to monitor."
+    },
+    {
+      "id": "talk_provider",
+      "title": "Talk to a Healthcare Provider",
+      "icon": "🔵",
+      "description": "Consider discussing your concern with a qualified healthcare professional."
+    },
+    {
+      "id": "seek_soon",
+      "title": "Seek Care Soon",
+      "icon": "🟠",
+      "description": "Getting professional advice soon would be appropriate."
+    },
+    {
+      "id": "urgent_care",
+      "title": "Urgent Care",
+      "icon": "🔴",
+      "description": "Your answers include information that may require prompt professional attention."
+    }
+  ]
+}
