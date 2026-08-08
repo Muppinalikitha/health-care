@@ -1,0 +1,28 @@
+{
+  "redFlags": [
+    {
+      "id": "severe_bleeding",
+      "question": "Are you experiencing very heavy bleeding that feels difficult to manage?",
+      "flag": true,
+      "action": "urgent_care"
+    },
+    {
+      "id": "severe_pain",
+      "question": "Are you experiencing severe or rapidly worsening pain?",
+      "flag": true,
+      "action": "urgent_care"
+    },
+    {
+      "id": "fainting",
+      "question": "Are you feeling faint, very weak, or unusually dizzy?",
+      "flag": true,
+      "action": "urgent_care"
+    },
+    {
+      "id": "rapid_worsening",
+      "question": "Does your condition feel severe or rapidly worsening?",
+      "flag": true,
+      "action": "urgent_care"
+    }
+  ]
+}
