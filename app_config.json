@@ -1,0 +1,17 @@
+{
+  "app": {
+    "name": "NIRVANA",
+    "title": "Your Next Safe Step",
+    "tagline": "Understand. Prepare. Act.",
+    "version": "1.0.0",
+    "defaultLanguage": "en",
+    "supportedLanguages": ["en", "te"],
+    "privacyMessage": "Your answers are used only to guide this conversation.",
+    "diagnosisEnabled": false
+  },
+  "theme": {
+    "primaryColor": "#FF6B88",
+    "secondaryColor": "#FFB6C1",
+    "backgroundColor": "#FFF8FA"
+  }
+}
