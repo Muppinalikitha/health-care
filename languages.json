@@ -1,0 +1,34 @@
+{
+  "en": {
+    "welcome": {
+      "title": "NIRVANA",
+      "tagline": "Your health. Your next step.",
+      "quote": "You don't need to know what's wrong. Let's understand it together.",
+      "startButton": "Start privately"
+    },
+    "common": {
+      "back": "Back",
+      "next": "Next",
+      "yes": "Yes",
+      "no": "No",
+      "submit": "Submit",
+      "listen": "Listen"
+    }
+  },
+  "te": {
+    "welcome": {
+      "title": "నిర్వాణ",
+      "tagline": "మీ ఆరోగ్యం. మీ తదుపరి అడుగు.",
+      "quote": "ఏం తప్పు జరిగిందో మీకు తెలియాల్సిన అవసరం లేదు. కలిసి అర్థం చేసుకుందాం.",
+      "startButton": "ప్రైవేట్‌గా ప్రారంభించండి"
+    },
+    "common": {
+      "back": "వెనుకకు",
+      "next": "తదుపరి",
+      "yes": "అవును",
+      "no": "కాదు",
+      "submit": "సమర్పించండి",
+      "listen": "వినండి"
+    }
+  }
+}
