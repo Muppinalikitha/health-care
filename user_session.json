@@ -1,0 +1,18 @@
+{
+  "session": {
+    "sessionId": "",
+    "language": "en",
+    "selectedConcern": "",
+    "answers": {},
+    "safetyResult": {
+      "redFlagDetected": false,
+      "nextStep": ""
+    },
+    "doctorQuestions": [],
+    "consultationSummary": {
+      "whatINoticed": [],
+      "whatIWantToUnderstand": [],
+      "questionsForProvider": []
+    }
+  }
+}
