@@ -1,0 +1,40 @@
+{
+  "concerns": [
+    {
+      "id": "periods",
+      "title": "Periods",
+      "icon": "🌙",
+      "description": "Cycle, pain and flow"
+    },
+    {
+      "id": "hormonal",
+      "title": "Hormonal Changes",
+      "icon": "🧬",
+      "description": "Hormones and body changes"
+    },
+    {
+      "id": "pregnancy",
+      "title": "Pregnancy & Postpartum",
+      "icon": "🤰",
+      "description": "Before, during and after pregnancy"
+    },
+    {
+      "id": "mental_wellbeing",
+      "title": "Mental Wellbeing",
+      "icon": "🧠",
+      "description": "Mood, stress and wellbeing"
+    },
+    {
+      "id": "menopause",
+      "title": "Menopause",
+      "icon": "🌷",
+      "description": "Perimenopause and menopause"
+    },
+    {
+      "id": "screening",
+      "title": "Screening",
+      "icon": "🩺",
+      "description": "Health checkups and screenings"
+    }
+  ]
+}
